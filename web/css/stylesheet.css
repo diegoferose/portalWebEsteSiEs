@@ -1,0 +1,39 @@
+.contenedor{
+    background: url(../img/cuerpo.png);
+    margin-top: 53px;
+    
+}
+
+body{
+    background: url(../img/fondo.png) fixed top center no-repeat;
+}
+.categoria{
+    background: url(../img/categoria.png) ;
+    min-width: 150px;
+    padding: 3px;
+}
+.categoriasCaja{
+    margin-top: 10px;
+}
+.piee{
+    background: #000000;
+}
+.enlaces{
+    text-decoration: none;
+    color: white;
+}
+.contenedorCentro1{
+    margin: auto;
+    width:  400px;
+   
+}
+.contenedorCentro{
+    margin: auto;
+   
+    width: 400px;
+}
+.cuerpo{
+    margin-top: 59px;
+    background: url(../img/cuerpo.png) top center;
+    
+}
