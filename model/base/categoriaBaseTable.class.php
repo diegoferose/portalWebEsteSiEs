@@ -8,7 +8,7 @@ use FStudio\myConfig as config;
 /**
  * Description of bdpcategoria
  *
- * @author Usuario
+ * @author 
  */
 class categoriaBaseTable {
 
