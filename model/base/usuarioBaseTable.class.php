@@ -4,7 +4,7 @@
 /**
  * Description of usuarioBaseTable
  *
- * @author Harold
+ * @author 
  */
 namespace FStudio\model\base;
 
